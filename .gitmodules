@@ -1,0 +1,9 @@
+[submodule "Ultraviolet-App"]
+	path = Ultraviolet-App
+	url = https://github.com/wakestudents/Ultraviolet-App.git
+[submodule "Ultraviolet-Static"]
+	path = Ultraviolet-Static
+	url = https://github.com/wakestudents/Ultraviolet-Static
+[submodule "Ultraviolet"]
+	path = Ultraviolet
+	url = https://github.com/titaniumnetwork-dev/Ultraviolet.git
