@@ -1,0 +1,19 @@
+{
+  "name": "proxyaio",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "setup": "cd Ultraviolet-App && npm install",
+    "start": "cd Ultraviolet-App && PORT=80 npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wakestudents/ProxyAIO.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wakestudents/ProxyAIO/issues"
+  },
+  "homepage": "https://github.com/wakestudents/ProxyAIO#readme"
+}
